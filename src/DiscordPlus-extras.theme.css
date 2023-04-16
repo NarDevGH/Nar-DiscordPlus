@@ -31,13 +31,13 @@
 /* put a nice logo in my server's channel list */
 .theme-dark [data-list-item-id="channels___554914403011526675"] .name-3BUDLf, .theme-light .theme-dark [data-list-item-id="channels___554914403011526675"] .name-3BUDLf {
   font-size: 0;
-  background: no-repeat url(//plusinsta.github.io/discord-plus/assets/wordmark_white.svg);
+  background: no-repeat url(//raw.githubusercontent.com/NarMaroth/Nar-DiscordPlus/master/assets/wordmark_white.svg);
   background-size: 54px 13px;
   width: 54px; height: 13px;
   opacity: 0.6;
 }
 .theme-light [data-list-item-id="channels___554914403011526675"] .name-3BUDLf {
-  background: no-repeat url(//plusinsta.github.io/discord-plus/assets/wordmark_black.svg);
+  background: no-repeat url(//raw.githubusercontent.com/NarMaroth/Nar-DiscordPlus/master/assets/wordmark_black.svg);
   background-size: 54px 13px;
   width: 54px; height: 13px;
   opacity: 0.7;
@@ -77,14 +77,14 @@
 [data-user-id="181240443747434496"],
 [data-user-id="168569629906698240"],
 [data-user-id="408875276265848833"] {
-  --dplus-badge: url("https://plusinsta.github.io/discord-plus/assets/badges/badge_supporter.svg");
+  --dplus-badge: url("https://raw.githubusercontent.com/NarMaroth/Nar-DiscordPlus/master/assets/badges/badge_supporter.svg");
   --dplus-supporter: "";
 }
 /* Developers */
 [data-user-id="309931975102300160"],
 [data-user-id="207335168430702602"],
 [data-user-id="394891840815366147"] {
-  --dplus-badge: url("https://plusinsta.github.io/discord-plus/assets/badges/badge_dev.svg");
+  --dplus-badge: url("https://raw.githubusercontent.com/NarMaroth/Nar-DiscordPlus/master/assets/badges/badge_dev.svg");
   --dplus-dev: "";
 }
 
@@ -105,13 +105,13 @@
   width: 14px; height: 14px;
 }
 
-.theme-dark { --dplus-badge-memberlist: url("https://plusinsta.github.io/discord-plus/assets/discord/home_dark.svg"); }
-.theme-light { --dplus-badge-memberlist: url("https://plusinsta.github.io/discord-plus/assets/discord/home_light.svg"); }
+.theme-dark { --dplus-badge-memberlist: url("https://raw.githubusercontent.com/NarMaroth/Nar-DiscordPlus/master/assets/discord/home_dark.svg"); }
+.theme-light { --dplus-badge-memberlist: url("https://raw.githubusercontent.com/NarMaroth/Nar-DiscordPlus/master/assets/discord/home_light.svg"); }
 
   /* Badge for Michelle */
 [data-user-id="220275692926009344"] .headerTag-16AlQV:after,
 [data-user-id="220275692926009344"] .topSection-13QKHs header:after
-{ background-image: url("https://plusinsta.github.io/discord-plus/assets/badges/badge_vip_michelle.svg");
+{ background-image: url("https://raw.githubusercontent.com/NarMaroth/Nar-DiscordPlus/master/assets/badges/badge_vip_michelle.svg");
   width: 96px; height: 20px; background-size: cover; content: ""; display: block; z-index: 0; }
 [data-user-id="220275692926009344"] .topSection-13QKHs header:after
 { margin-left: 16px; }
