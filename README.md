@@ -1,3 +1,3 @@
 Nar´s modified version of DiscordPlus theme.
 
-Original: https://github.com/PlusInsta/discord-plus/tree/master/assets
+Original: https://github.com/PlusInsta/discord-plus
