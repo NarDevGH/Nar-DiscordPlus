@@ -1,3 +1,3 @@
-Nar´s modified version of DiscordPlus theme.
+Nier Automata UI for Discord
 
-Original: https://github.com/PlusInsta/discord-plus
+Original: https://github.com/AccraZed/YoRHA-UI-BetterDiscord
